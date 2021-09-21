@@ -1,12 +1,16 @@
 {
-    "name": "Atlas Copco GA 110 VSD",
-    "sn": "APF 214392"
-},
-{
-    "name": "Comp Air Regatta",
-    "sn": "349006/1061"
-},
-{
-    "name": "Atlas Copco GA 22 FF",
-    "sn": "AII 278115"
-},
+    "compressors":[
+       {
+          "name":"Atlas Copco GA 110 VSD",
+          "sn":"APF 214392"
+       },
+       {
+          "name":"Comp Air Regatta",
+          "sn":"349006/1061"
+       },
+       {
+          "name":"Atlas Copco GA 22 FF",
+          "sn":"AII 278115"
+       }
+    ]
+ }
