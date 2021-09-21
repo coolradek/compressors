@@ -1,0 +1,7 @@
+<form [formGroup]="compressorForm" (ngSubmit)="onSubmit()">
+    <label> Nazwa Kompresora   </label>
+    <input type="text" formControlName="compressorName" />
+    <label>    Numer Seryjny   </label>
+    <input type="text" formControlName="serialNo" />
+    <button type="submit">Zatwierdź</button>
+</form>
